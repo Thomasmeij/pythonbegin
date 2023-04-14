@@ -1,7 +1,6 @@
 * Installatie
 
-een *eerste* begin.\
-**vet** werk.\
+een *eerste* begin.
 
 ### Python versie
 
